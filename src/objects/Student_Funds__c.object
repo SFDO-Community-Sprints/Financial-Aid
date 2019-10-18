@@ -167,17 +167,16 @@
     </fields>
     <fields>
         <fullName>Funding_Source__c</fullName>
+        <deleteConstraint>SetNull</deleteConstraint>
         <externalId>false</externalId>
         <label>Funding Source</label>
         <referenceTo>Funding_Source__c</referenceTo>
         <relationshipLabel>Student Funds</relationshipLabel>
         <relationshipName>Student_Funds</relationshipName>
-        <relationshipOrder>0</relationshipOrder>
-        <reparentableMasterDetail>false</reparentableMasterDetail>
+        <required>false</required>
         <trackHistory>false</trackHistory>
         <trackTrending>false</trackTrending>
-        <type>MasterDetail</type>
-        <writeRequiresMasterRead>false</writeRequiresMasterRead>
+        <type>Lookup</type>
     </fields>
     <fields>
         <fullName>Funding_amount__c</fullName>
@@ -204,6 +203,6 @@
     </nameField>
     <pluralLabel>Student Funds</pluralLabel>
     <searchLayouts/>
-    <sharingModel>ControlledByParent</sharingModel>
+    <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
