@@ -18,7 +18,7 @@ Documentation can be found in the repository [wiki](https://github.com/SFDO-Spri
     * [Shamir Khan](https://github.com/shamgitpub)
     * [Matt Palmer](https://github.com/matt2403)
     * [Kathy Zimmerman](https://github.com/KathyZimmerman)
-    * [Ali Ganjalizadeh]((https://github.com/aligeez)
+    * [Ali Ganjalizadeh](https://github.com/aligeez)
     * [Matthew Blanski](https://github.com/MatthewBlanski)
     
 ### Project Team Accomplishments
