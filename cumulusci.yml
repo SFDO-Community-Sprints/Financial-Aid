@@ -8,6 +8,14 @@ project:
         - github: 'https://github.com/SalesforceFoundation/EDA'
 
 tasks:
+    deploy_dev_config:
+        description: Deploys configuration for Development from /unpackaged/config/default_config
+        class_path: cumulusci.tasks.salesforce.Deploy
+        options:
+            namespace_inject: $project_config.project__package__namespace
+            path: unpackaged/config/dev
+            unmanaged: True
+
     robot:
         options:
             suites: robot/Financial-Aid-/tests
@@ -20,6 +28,11 @@ tasks:
             output: robot/Financial-Aid-/doc/Financial-Aid-_tests.html
 
 flows:
+    config_dev:
+        steps:
+           3:
+               task: deploy_dev_config
+
     config_qa:
         1.1:
             task: deploy_qa_config
