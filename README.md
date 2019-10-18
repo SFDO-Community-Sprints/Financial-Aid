@@ -1,12 +1,27 @@
-# Financial-Aid-
+### Project Name
+Financial Aid
 
-Add a brief description of this project here, in Markdown format.
-It will be shown on the main page of the project's GitHub repository.
+### Project Description
+Students, Staff, and Organizations all need to manage financial aid. This solution endeavors to supply Financial Aid architecture and small assistance in a manner similar to EDA.
 
-## Development
+### Project Audience
+Institutions that want to manage Financial Aid funding data.
 
-To work on this project in a scratch org:
+### Project Documentation
+Documentation can be found in the repository [wiki](https://github.com/SFDO-Sprint-2019-Philadelphia/Financial-Aid/wiki)
 
-1. [Set up CumulusCI](https://cumulusci.readthedocs.io/en/latest/tutorial.html)
-2. Run `cci flow run dev_org --org dev` to deploy this project.
-3. Run `cci org browser dev` to open the org in your browser.
+### Project Team
+
+* List of Contributors:
+    * [Ben Arenger](https://github.com/dripkoffee)
+    * [Shamir Khan](https://github.com/shamgitpub)
+    * [Kathy Zimmerman[(https://github.com/KathyZimmerman)
+    * [Matthew Blanski](https://github.com/MatthewBlanski)
+    
+### Project Team Accomplishments
+In October 2019, the project team created a schema and an outline of some setup guides
+
+### Contributing
+See the [Issues](https://github.com/SFDO-Sprint-2019-Philadelphia/Financial-Aid/issues) tab for open enhancements. Feel free to add additional suggestions and use cases!
+
+### Project Roadmap
