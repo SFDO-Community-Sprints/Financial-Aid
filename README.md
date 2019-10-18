@@ -15,7 +15,7 @@ Documentation can be found in the repository [wiki](https://github.com/SFDO-Spri
 * List of Contributors:
     * [Ben Arenger](https://github.com/dripkoffee)
     * [Shamir Khan](https://github.com/shamgitpub)
-    * [Kathy Zimmerman[(https://github.com/KathyZimmerman)
+    * [Kathy Zimmerman](https://github.com/KathyZimmerman)
     * [Matthew Blanski](https://github.com/MatthewBlanski)
     
 ### Project Team Accomplishments
