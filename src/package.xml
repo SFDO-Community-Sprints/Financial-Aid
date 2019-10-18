@@ -8,7 +8,7 @@
         <members>Funding_Source__c.Funding_type__c</members>
         <members>Funding_Source__c.Start_Date__c</members>
         <members>Student_Funds__c.Contact__c</members>
-        <members>Student_Funds__c.Disperced__c</members>
+        <members>Student_Funds__c.Disbursed__c</members>
         <members>Student_Funds__c.Funding_Source__c</members>
         <members>Student_Funds__c.Funding_amount__c</members>
         <members>Student_Funds__c.Status__c</members>
