@@ -1,0 +1,25 @@
+minimum_cumulusci_version: '3.0.1'
+project:
+    name: Financial-Aid-
+    package:
+        name:  Financial-Aid-
+        api_version: '46.0'
+    dependencies:
+        - github: 'https://github.com/SalesforceFoundation/EDA'
+
+tasks:
+    robot:
+        options:
+            suites: robot/Financial-Aid-/tests
+            options:
+                outputdir: robot/Financial-Aid-/results
+
+    robot_testdoc:
+        options:
+            path: robot/Financial-Aid-/tests
+            output: robot/Financial-Aid-/doc/Financial-Aid-_tests.html
+
+flows:
+    config_qa:
+        1.1:
+            task: deploy_qa_config
