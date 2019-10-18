@@ -2,10 +2,6 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>Financial-Aid-</fullName>
     <types>
-        <members>Financial_Aid</members>
-        <name>CustomApplication</name>
-    </types>
-    <types>
         <members>Funding_Source__c.Account__c</members>
         <members>Funding_Source__c.End_Date__c</members>
         <members>Funding_Source__c.Funding_amount__c</members>
