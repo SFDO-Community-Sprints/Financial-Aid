@@ -1,49 +1,208 @@
-### Project Name
-Financial Aid
+### **Project Name**
 
-### Project Theme
-How would you categorize your project? For example, are you creating an app and/or component, writing documentation, focusing on the community ecosystem, making videos, etc. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
+Educational Financing (fka Financial Aid)
 
-### Project Vertical
-How would you define the audience for your project? For example, nonprofits, education, or everyone. [Learn how](https://github.com/SFDO-Community-Sprints/Welcome/wiki/SFDO-Community-Sprints-Topic-Overview) this information loops back into Sprint project work!
 
-### Hub Group Link
-https://powerofus.force.com/s/group/0F91E000000brP8SAI/financial-aid
+### 
+**Project Theme**
 
-### Current Project Team
+This project is an app meant to help manage and track student (or faculty) financing in Salesforce.
+
+
+### 
+**Project Vertical**
+
+EDA/Education Cloud
+
+
+### 
+**Hub Group Link**
+
+[https://powerofus.force.com/s/group/0F91E000000brP8SAI/financial-aid](https://powerofus.force.com/s/group/0F91E000000brP8SAI/financial-aid)
+
+
+### 
+**Current Project Team**
 
 Help us give you the thanks you deserve and ensure future contributors know who to contact if they have questions! Please ensure that all contributing members of the team are included.
-* Team Leader(s): 
-* GitHub Scribe(s): 
-* List of all Contributors:
 
-### Past Project Team
 
-Full Name | Team Role | Github Username
------------- | ------------- | ------------- |
-Ben Arenger | Contributor | [Ben Arenger](https://github.com/dripkoffee)
-Buyan Thyagarajan| Contributor | [Buyan Thyagarajan](https://github.com/buyan47)
-Shamir Khan | Contributor | [Shamir Khan](https://github.com/shamgitpub)
-Matt Palmer | Contributor | [Matt Palmer](https://github.com/matt2403)
-Kathy Zimmerman | Contributor | [Kathy Zimmerman](https://github.com/KathyZimmerman)
-Ali Ganjalizadeh | Contributor | [Ali Ganjalizadeh](https://github.com/aligeez)
-Matthew Blanski | Contributor | [Matthew Blanski](https://github.com/MatthewBlanski)
 
-### Project Vision
+*   Team Leader(s): Emma Hutchinson
+*   GitHub Scribe(s): Emma Hutchinson
+*   List of all Contributors: Yina Chun, Jo Ann Lewis, Ali Ganjalizadeh
 
-Students, Staff, and Organizations all need to manage financial aid. This solution endeavors to supply Financial Aid architecture and small assistance in a manner similar to EDA. For use by Institutions that want to manage Financial Aid funding data.
+### 
+**Project Team(s)**
 
-### Project Resources (It's ok if you'd prefer to type all the things in Google docs, Quip, or your word processor of choice, just please make sure you include links to your work here in Github. We need a source of truth, and for now that's here in GitHub.)
+
+<table>
+  <tr>
+   <td>
+<strong>Full Name</strong>
+   </td>
+   <td><strong>Team Role</strong>
+   </td>
+   <td><strong>Github Username</strong>
+   </td>
+   <td><strong>Sprint</strong>
+   </td>
+  </tr>
+  <tr>
+   <td>Emma Hutchinson
+   </td>
+   <td>Project Leader
+   </td>
+   <td><a href="https://github.com/erh244">Emma Hutchinson</a>
+   </td>
+   <td>Virtual March/April 2020
+   </td>
+  </tr>
+  <tr>
+   <td>Yina Chun
+   </td>
+   <td>Contributor
+   </td>
+   <td><a href="https://github.com/cyina88">Yina Chun</a>
+   </td>
+   <td>Virtual March/April 2020
+   </td>
+  </tr>
+  <tr>
+   <td>Jo Ann Lewis
+   </td>
+   <td>Contributor
+   </td>
+   <td>
+   </td>
+   <td>Virtual March/April 2020
+   </td>
+  </tr>
+  <tr>
+   <td>Ben Arenger
+   </td>
+   <td>Contributor
+   </td>
+   <td><a href="https://github.com/dripkoffee">Ben Arenger</a>
+   </td>
+   <td>Philly 2019
+   </td>
+  </tr>
+  <tr>
+   <td>Buyan Thyagarajan
+   </td>
+   <td>Contributor
+   </td>
+   <td><a href="https://github.com/buyan47">Buyan Thyagarajan</a>
+   </td>
+   <td>Philly 2019
+   </td>
+  </tr>
+  <tr>
+   <td>Shamir Khan
+   </td>
+   <td>Contributor
+   </td>
+   <td><a href="https://github.com/shamgitpub">Shamir Khan</a>
+   </td>
+   <td>Philly 2019
+   </td>
+  </tr>
+  <tr>
+   <td>Matt Palmer
+   </td>
+   <td>Contributor
+   </td>
+   <td><a href="https://github.com/matt2403">Matt Palmer</a>
+   </td>
+   <td>Philly 2019
+   </td>
+  </tr>
+  <tr>
+   <td>Kathy Zimmerman
+   </td>
+   <td>Contributor
+   </td>
+   <td><a href="https://github.com/KathyZimmerman">Kathy Zimmerman</a>
+   </td>
+   <td>Philly 2019
+   </td>
+  </tr>
+  <tr>
+   <td>Ali Ganjalizadeh
+   </td>
+   <td>Contributor
+   </td>
+   <td><a href="https://github.com/aligeez">Ali Ganjalizadeh</a>
+   </td>
+   <td>Virtual March/April 2020; Philly 2019
+   </td>
+  </tr>
+  <tr>
+   <td>Matthew Blanski
+   </td>
+   <td>Contributor
+   </td>
+   <td><a href="https://github.com/MatthewBlanski">Matthew Blanski</a>
+   </td>
+   <td>Virtual March/April 2020; Philly 2019
+   </td>
+  </tr>
+</table>
+
+
+
+### 
+**Project Vision**
+
+**Virtual March/April 2020:** Building off of the efforts of the 2019 Philly Sprint. This App is meant to support all means of finances for Students and Faculty. It focuses on tracking financing such as scholarships, grants, etc. as the first piece of the App. 
+
+The App’s main goals are to:
+
+
+
+*   Track and Communicate Financing opportunities to Students, Faculty, and Advisors
+*   Allow Students to see their Financial Aid funding and what other funds they need to complete their financial obligations
+*   Allow the Educational Institution to report on details of Financing per department, type of student, etc.
+*   Match students who meet criteria to available Financing opportunities 
+
+**Philly 2019:** Students, Staff, and Organizations all need to manage financial aid. This solution endeavors to supply Financial Aid architecture and small assistance in a manner similar to EDA. For use by Institutions that want to manage Financial Aid funding data.
+
+
+### 
+**Project Resources (It's ok if you'd prefer to type all the things in Google docs, Quip, or your word processor of choice, just please make sure you include links to your work here in Github. We need a source of truth, and for now that's here in GitHub.)**
 
 Documentation can be found in the repository [wiki](https://github.com/SFDO-Sprint-2019-Philadelphia/Financial-Aid/wiki)
 
-### Current Project Team Accomplishments
+
+### 
+**Current Project Team Accomplishments**
+
 What did the Project Team get done during the Sprint?
 
-### Project Team Accomplishments (YTD)
+**Virtual March/April 2020: **During this Sprint we broadened the existing schema to include all financing options. We thought through the solution as a whole to see what parts of EDA we could work with to make it easier to use existing pieces. 
+
+We also began discussions with the Outbound Funds team to see if their App/Schema is a good match for our project and whether Financial Aid could be an add-on package similar to NPSP.
+
+
+### 
+**Project Team Accomplishments (YTD)**
+
 In October 2019, the project team created a schema and an outline of some setup guides
 
-### Contributing
+
+### 
+**Contributing**
+
 See the [Issues](https://github.com/SFDO-Sprint-2019-Philadelphia/Financial-Aid/issues) tab for open enhancements. Feel free to add additional suggestions and use cases!
 
-### Project Roadmap
+
+### 
+**Project Roadmap**
+
+
+
+*   Finish reviewing all Outbound Funds objects and workflows
+*   Discuss with OF the opportunity to adjust objects/etc for this app
+*   Build Tracking schema and rules
+*   Use EDA schema to set up tuition/course costs in order to track remaining funds
