@@ -33,7 +33,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td><strong>Github Username</strong>
    </td>
-   <td><strong>Sprint</strong>
+   <td><strong>Sprint(s)</strong>
    </td>
   </tr>
   <tr>
@@ -41,7 +41,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td>Project Leader
    </td>
-   <td><a href="https://github.com/erh244">Emma Hutchinson</a>
+   <td><a href="https://github.com/erh244">erh244</a>
    </td>
    <td>Virtual March/April 2020
    </td>
@@ -51,7 +51,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td>Contributor
    </td>
-   <td><a href="https://github.com/cyina88">Yina Chun</a>
+   <td><a href="https://github.com/cyina88">cyina88</a>
    </td>
    <td>Virtual March/April 2020
    </td>
@@ -61,7 +61,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td>Contributor
    </td>
-   <td>
+   <td><a href="https://github.com/dripkoffee">Jdaze10</a>
    </td>
    <td>Virtual March/April 2020
    </td>
@@ -71,7 +71,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td>Contributor
    </td>
-   <td><a href="https://github.com/dripkoffee">Ben Arenger</a>
+   <td><a href="https://github.com/dripkoffee">dripkoffee</a>
    </td>
    <td>Philly 2019
    </td>
@@ -81,7 +81,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td>Contributor
    </td>
-   <td><a href="https://github.com/buyan47">Buyan Thyagarajan</a>
+   <td><a href="https://github.com/buyan47">buyan47</a>
    </td>
    <td>Philly 2019
    </td>
@@ -91,7 +91,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td>Contributor
    </td>
-   <td><a href="https://github.com/shamgitpub">Shamir Khan</a>
+   <td><a href="https://github.com/shamgitpub">shamgitpub</a>
    </td>
    <td>Philly 2019
    </td>
@@ -101,7 +101,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td>Contributor
    </td>
-   <td><a href="https://github.com/matt2403">Matt Palmer</a>
+   <td><a href="https://github.com/matt2403">matt2403</a>
    </td>
    <td>Philly 2019
    </td>
@@ -111,7 +111,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td>Contributor
    </td>
-   <td><a href="https://github.com/KathyZimmerman">Kathy Zimmerman</a>
+   <td><a href="https://github.com/KathyZimmerman">KathyZimmerman</a>
    </td>
    <td>Philly 2019
    </td>
@@ -121,7 +121,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td>Contributor
    </td>
-   <td><a href="https://github.com/aligeez">Ali Ganjalizadeh</a>
+   <td><a href="https://github.com/aligeez">aligeez</a>
    </td>
    <td>Virtual March/April 2020; Philly 2019
    </td>
@@ -131,7 +131,7 @@ Help us give you the thanks you deserve and ensure future contributors know who 
    </td>
    <td>Contributor
    </td>
-   <td><a href="https://github.com/MatthewBlanski">Matthew Blanski</a>
+   <td><a href="https://github.com/MatthewBlanski">MatthewBlanski</a>
    </td>
    <td>Virtual March/April 2020; Philly 2019
    </td>
